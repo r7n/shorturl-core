@@ -1,10 +1,13 @@
 [package]
 name = "shorturl-core"
 version = "0.1.0"
-authors = ["r7n <rust@r7n.cc>"]
+authors = ["r7n <r7n@gmx.us>"]
 edition = "2018"
+homepage = "https://r7n.cc"
+repository = "https://github.com/r7n/shorturl-core"
+license = "MIT"
+description = "短网址核心功能"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 fasthash="0.4"
